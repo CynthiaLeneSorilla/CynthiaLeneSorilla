@@ -1,6 +1,8 @@
 # Hi there! ✋ I'm Cynthia
 
-I’m currently starting my journey in **Data Analytics**, with a strong interest in turning data into meaningful insights that support better business decisions.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Data%20Analytics%20Journey&fontSize=35&fontColor=ffffff)
+
+I’m currently starting my journey in **Data Analytics**, focused on turning data into meaningful insights for better business decisions.
 
 ---
 
@@ -19,40 +21,39 @@ I’m currently starting my journey in **Data Analytics**, with a strong interes
 
 My goal is to become a skilled **Business Analytics professional** who helps organizations improve performance and make strategic decisions through data.
 
-I aim to build strong expertise in:
-- Extracting insights from complex datasets  
-- Creating impactful dashboards and visualizations  
-- Supporting data-driven business strategies  
-
 ---
 
 ## 🧰 Analytics Toolkit & Workflow
 
-Here are the tools and technologies I use to navigate the **CRISP-DM pipeline** and build data-driven decision-support solutions:
+Here are the tools and technologies I use to navigate the **CRISP-DM pipeline**:
 
-### 📊 Data Analysis & Processing
-- Python (Pandas, NumPy)
-- Excel (Advanced formulas, Pivot Tables)
-- SQL (Data querying & management)
+### 💻 Programming & Data Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 📈 Data Visualization
-- Power BI
-- Tableau
-- Matplotlib / Seaborn
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🧠 Data Science & Analytics Concepts
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Cleaning & Preprocessing
-
-### ⚙️ Workflow Framework
-- CRISP-DM (Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation → Deployment)
+### 📈 Analytics Concepts
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Preprocessing  
+- Statistical Analysis  
 
 ---
 
-## 🔥 GitHub Streak Stats
+## ⚙️ CRISP-DM Workflow
+
+![CRISP-DM](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/640px-CRISP-DM_Process_Diagram.png)
+
+---
+
+## 🔥 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CynthiaLeneSorilla&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CynthiaLeneSorilla&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -67,6 +68,6 @@ Here are the tools and technologies I use to navigate the **CRISP-DM pipeline** 
 
 ## 📫 Let’s Connect
 
-I’m always open to learning, collaboration, and connecting with others in the data community.
+![Handshake](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
----
+I’m always open to learning and collaboration in the data community.
