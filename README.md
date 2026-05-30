@@ -25,29 +25,32 @@ My goal is to become a skilled **Business Analytics professional** who helps org
 
 ## 🧰 Analytics Toolkit & Workflow
 
-Here are the tools and technologies I use to navigate the **CRISP-DM pipeline**:
+Here are the tools and technologies I use to navigate the **CRISP-DM pipeline** and build data-driven decision-support solutions:
 
-### 💻 Programming & Data Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 📊 Data Analysis & Processing
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
+</p>
 
-### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### 📈 Data Visualization
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+</p>
 
-### 📈 Analytics Concepts
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Preprocessing  
-- Statistical Analysis  
+### 🧠 Data Science & Concepts
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+</p>
 
----
-
-## ⚙️ CRISP-DM Workflow
-
-![CRISP-DM](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/640px-CRISP-DM_Process_Diagram.png)
-
----
+### ⚙️ Workflow
+- CRISP-DM: Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation → Deployment
 
 ## 🔥 GitHub Stats
 
@@ -67,7 +70,5 @@ Here are the tools and technologies I use to navigate the **CRISP-DM pipeline**:
 ---
 
 ## 📫 Let’s Connect
-
-![Handshake](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 I’m always open to learning and collaboration in the data community.
