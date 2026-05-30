@@ -23,5 +23,4 @@ My goal is to become a skilled Business Analytics professional who can help orga
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=academia&logoColor=white)
 
 ## GitHub Streak Stats 🔥
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CynthiaLeneSorilla&theme=tokyonight) . edit adds  The Analytics
-Here is the tech stack and toolkit I use to navigate the CRISP-DM pipeline and build decision-support tools: but redo or rename this line
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CynthiaLeneSorilla&theme=tokyonight)
